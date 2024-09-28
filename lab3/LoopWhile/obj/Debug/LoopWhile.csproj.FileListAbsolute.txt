@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab3\LoopWhile\bin\Debug\LoopWhile.exe.config
+C:\Users\User\source\repos\lab3\LoopWhile\bin\Debug\LoopWhile.exe
+C:\Users\User\source\repos\lab3\LoopWhile\bin\Debug\LoopWhile.pdb
+C:\Users\User\source\repos\lab3\LoopWhile\obj\Debug\LoopWhile.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab3\LoopWhile\obj\Debug\LoopWhile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab3\LoopWhile\obj\Debug\LoopWhile.exe
+C:\Users\User\source\repos\lab3\LoopWhile\obj\Debug\LoopWhile.pdb

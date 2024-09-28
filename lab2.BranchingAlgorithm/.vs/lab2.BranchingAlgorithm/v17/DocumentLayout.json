@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\lab2.BranchingAlgorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C62B471-32FC-4C0A-8661-C2ABF93F09B1}|lab2.Task4\\lab2.Task4.csproj|c:\\users\\user\\source\\repos\\lab2.branchingalgorithm\\lab2.task4\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C62B471-32FC-4C0A-8661-C2ABF93F09B1}|lab2.Task4\\lab2.Task4.csproj|solutionrelative:lab2.task4\\task4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08203BEF-F32A-4A3C-A125-7A505203C436}|lab2.Task3\\lab2.Task3.csproj|c:\\users\\user\\source\\repos\\lab2.branchingalgorithm\\lab2.task3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08203BEF-F32A-4A3C-A125-7A505203C436}|lab2.Task3\\lab2.Task3.csproj|solutionrelative:lab2.task3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698A24CE-2D78-48D5-ACFB-0D9B50C587BC}|lab2.Task2\\lab2.Task2.csproj|c:\\users\\user\\source\\repos\\lab2.branchingalgorithm\\lab2.task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698A24CE-2D78-48D5-ACFB-0D9B50C587BC}|lab2.Task2\\lab2.Task2.csproj|solutionrelative:lab2.task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACD65B84-AE74-4B5A-B886-08A91386E036}|lab2.Task1\\lab2.Task1.csproj|c:\\users\\user\\source\\repos\\lab2.branchingalgorithm\\lab2.task1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACD65B84-AE74-4B5A-B886-08A91386E036}|lab2.Task1\\lab2.Task1.csproj|solutionrelative:lab2.task1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab2.BranchingAlgorithm\\lab2.Task4\\Task4.cs",
+              "RelativeDocumentMoniker": "lab2.Task4\\Task4.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab2.BranchingAlgorithm\\lab2.Task4\\Task4.cs",
+              "RelativeToolTip": "lab2.Task4\\Task4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:21:40.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab2.BranchingAlgorithm\\lab2.Task3\\Task3.cs",
+              "RelativeDocumentMoniker": "lab2.Task3\\Task3.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab2.BranchingAlgorithm\\lab2.Task3\\Task3.cs",
+              "RelativeToolTip": "lab2.Task3\\Task3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:21:39.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab2.BranchingAlgorithm\\lab2.Task2\\Task2.cs",
+              "RelativeDocumentMoniker": "lab2.Task2\\Task2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab2.BranchingAlgorithm\\lab2.Task2\\Task2.cs",
+              "RelativeToolTip": "lab2.Task2\\Task2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:21:36.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab2.BranchingAlgorithm\\lab2.Task1\\Task1.cs",
+              "RelativeDocumentMoniker": "lab2.Task1\\Task1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab2.BranchingAlgorithm\\lab2.Task1\\Task1.cs",
+              "RelativeToolTip": "lab2.Task1\\Task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:21:33.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

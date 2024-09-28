@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab2.BranchingAlgorithm\lab2.Task1\bin\Debug\lab2.Task1.exe.config
+C:\Users\User\source\repos\lab2.BranchingAlgorithm\lab2.Task1\bin\Debug\lab2.Task1.exe
+C:\Users\User\source\repos\lab2.BranchingAlgorithm\lab2.Task1\bin\Debug\lab2.Task1.pdb
+C:\Users\User\source\repos\lab2.BranchingAlgorithm\lab2.Task1\obj\Debug\lab2.Task1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab2.BranchingAlgorithm\lab2.Task1\obj\Debug\lab2.Task1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab2.BranchingAlgorithm\lab2.Task1\obj\Debug\lab2.Task1.exe
+C:\Users\User\source\repos\lab2.BranchingAlgorithm\lab2.Task1\obj\Debug\lab2.Task1.pdb
