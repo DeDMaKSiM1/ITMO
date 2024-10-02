@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FF1FCF-7DE5-487F-8529-66F726DB7C8D}|Task3\\Task3.csproj|c:\\users\\user\\source\\repos\\lab7\\task3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FF1FCF-7DE5-487F-8529-66F726DB7C8D}|Task3\\Task3.csproj|solutionrelative:task3\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF051F44-B185-44AE-8FDD-59E839C33A85}|Task2\\Task2.csproj|C:\\Users\\User\\source\\repos\\lab7\\task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF051F44-B185-44AE-8FDD-59E839C33A85}|Task2\\Task2.csproj|solutionrelative:task2\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296F392A-A72F-4863-B7E6-24C80B19FE3C}|Task1\\Task1.csproj|C:\\Users\\User\\source\\repos\\lab7\\task1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296F392A-A72F-4863-B7E6-24C80B19FE3C}|Task1\\Task1.csproj|solutionrelative:task1\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab7\\Task1\\Task1.cs",
+              "RelativeDocumentMoniker": "Task1\\Task1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab7\\Task1\\Task1.cs",
+              "RelativeToolTip": "Task1\\Task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:18:40.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab7\\Task2\\Task2.cs",
+              "RelativeDocumentMoniker": "Task2\\Task2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab7\\Task2\\Task2.cs",
+              "RelativeToolTip": "Task2\\Task2.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:01:56.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab7\\Task3\\Task3.cs",
+              "RelativeDocumentMoniker": "Task3\\Task3.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab7\\Task3\\Task3.cs*",
+              "RelativeToolTip": "Task3\\Task3.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:21:46.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
