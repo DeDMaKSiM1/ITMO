@@ -23,7 +23,7 @@ public class MainClass
 
             Calculate(x1, x2, operationNum, out resultOutput);
 
-            Console.WriteLine($"{resultOutput:f2}");
+            Console.WriteLine($"Результат: {resultOutput:#.##}");
         }
         catch (ArgumentException argEx)
         {

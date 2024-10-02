@@ -1,0 +1,7 @@
+D:\ITMO\ITMO\lab8\lab9\lab9\bin\Debug\lab9.exe.config
+D:\ITMO\ITMO\lab8\lab9\lab9\bin\Debug\lab9.exe
+D:\ITMO\ITMO\lab8\lab9\lab9\bin\Debug\lab9.pdb
+D:\ITMO\ITMO\lab8\lab9\lab9\obj\Debug\lab8.csproj.AssemblyReference.cache
+D:\ITMO\ITMO\lab8\lab9\lab9\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\ITMO\ITMO\lab8\lab9\lab9\obj\Debug\lab9.exe
+D:\ITMO\ITMO\lab8\lab9\lab9\obj\Debug\lab9.pdb
