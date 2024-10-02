@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\lab9.Classes\lab9.Classes\bin\Debug\lab9.Classes.exe.config
+C:\Users\User\source\repos\lab9.Classes\lab9.Classes\bin\Debug\lab9.Classes.exe
+C:\Users\User\source\repos\lab9.Classes\lab9.Classes\bin\Debug\lab9.Classes.pdb
+C:\Users\User\source\repos\lab9.Classes\lab9.Classes\obj\Debug\lab9.Classes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab9.Classes\lab9.Classes\obj\Debug\lab9.Classes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab9.Classes\lab9.Classes\obj\Debug\lab9.Classes.exe
+C:\Users\User\source\repos\lab9.Classes\lab9.Classes\obj\Debug\lab9.Classes.pdb
+D:\ITMO\ITMO\lab9.Classes\lab9.Classes\bin\Debug\lab9.Classes.exe.config
+D:\ITMO\ITMO\lab9.Classes\lab9.Classes\bin\Debug\lab9.Classes.exe
+D:\ITMO\ITMO\lab9.Classes\lab9.Classes\bin\Debug\lab9.Classes.pdb
+D:\ITMO\ITMO\lab9.Classes\lab9.Classes\obj\Debug\lab9.Classes.csproj.AssemblyReference.cache
+D:\ITMO\ITMO\lab9.Classes\lab9.Classes\obj\Debug\lab9.Classes.csproj.CoreCompileInputs.cache
+D:\ITMO\ITMO\lab9.Classes\lab9.Classes\obj\Debug\lab9.Classes.exe
+D:\ITMO\ITMO\lab9.Classes\lab9.Classes\obj\Debug\lab9.Classes.pdb
