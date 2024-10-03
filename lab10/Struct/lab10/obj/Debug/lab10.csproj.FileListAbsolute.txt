@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Struct\lab10\bin\Debug\lab10.exe.config
+C:\Users\User\source\repos\Struct\lab10\bin\Debug\lab10.exe
+C:\Users\User\source\repos\Struct\lab10\bin\Debug\lab10.pdb
+C:\Users\User\source\repos\Struct\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Struct\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Struct\lab10\obj\Debug\lab10.exe
+C:\Users\User\source\repos\Struct\lab10\obj\Debug\lab10.pdb
+D:\ITMO\ITMO\lab10\Struct\lab10\bin\Debug\lab10.exe.config
+D:\ITMO\ITMO\lab10\Struct\lab10\bin\Debug\lab10.exe
+D:\ITMO\ITMO\lab10\Struct\lab10\bin\Debug\lab10.pdb
+D:\ITMO\ITMO\lab10\Struct\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+D:\ITMO\ITMO\lab10\Struct\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+D:\ITMO\ITMO\lab10\Struct\lab10\obj\Debug\lab10.exe
+D:\ITMO\ITMO\lab10\Struct\lab10\obj\Debug\lab10.pdb
