@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab12\lab12\bin\Debug\lab12.exe.config
+C:\Users\User\source\repos\lab12\lab12\bin\Debug\lab12.exe
+C:\Users\User\source\repos\lab12\lab12\bin\Debug\lab12.pdb
+C:\Users\User\source\repos\lab12\lab12\obj\Debug\lab12.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab12\lab12\obj\Debug\lab12.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab12\lab12\obj\Debug\lab12.exe
+C:\Users\User\source\repos\lab12\lab12\obj\Debug\lab12.pdb
