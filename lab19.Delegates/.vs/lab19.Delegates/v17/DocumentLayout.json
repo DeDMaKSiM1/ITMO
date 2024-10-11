@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\lab19.Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F36232-A0E0-4F2E-84EF-3C85506BC24D}|Func\\Func.csproj|c:\\users\\user\\source\\repos\\lab19.delegates\\func\\func.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F36232-A0E0-4F2E-84EF-3C85506BC24D}|Func\\Func.csproj|solutionrelative:func\\func.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4368F8D2-4528-4E23-ADE6-CB3173422AB2}|lab19.Delegates\\lab19.Delegates.csproj|c:\\users\\user\\source\\repos\\lab19.delegates\\lab19.delegates\\userdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4368F8D2-4528-4E23-ADE6-CB3173422AB2}|lab19.Delegates\\lab19.Delegates.csproj|solutionrelative:lab19.delegates\\userdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Func.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab19.Delegates\\Func\\Func.cs",
+              "RelativeDocumentMoniker": "Func\\Func.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab19.Delegates\\Func\\Func.cs",
+              "RelativeToolTip": "Func\\Func.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:00:31.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab19.Delegates\\lab19.Delegates\\UserDelegate.cs",
+              "RelativeDocumentMoniker": "lab19.Delegates\\UserDelegate.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab19.Delegates\\lab19.Delegates\\UserDelegate.cs",
+              "RelativeToolTip": "lab19.Delegates\\UserDelegate.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wCYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:58:49.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

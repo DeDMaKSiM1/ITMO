@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab19.Delegates\lab19.Delegates\bin\Debug\lab19.Delegates.exe.config
+C:\Users\User\source\repos\lab19.Delegates\lab19.Delegates\bin\Debug\lab19.Delegates.exe
+C:\Users\User\source\repos\lab19.Delegates\lab19.Delegates\bin\Debug\lab19.Delegates.pdb
+C:\Users\User\source\repos\lab19.Delegates\lab19.Delegates\obj\Debug\UserDelegates.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab19.Delegates\lab19.Delegates\obj\Debug\UserDelegates.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab19.Delegates\lab19.Delegates\obj\Debug\lab19.Delegates.exe
+C:\Users\User\source\repos\lab19.Delegates\lab19.Delegates\obj\Debug\lab19.Delegates.pdb
