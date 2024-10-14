@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\lab16.Generic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05DC94A4-9AEC-4B1F-9C53-3A770E21B5CC}|lab16.Generic\\lab16.Generic.csproj|c:\\users\\user\\source\\repos\\lab16.generic\\lab16.generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DC94A4-9AEC-4B1F-9C53-3A770E21B5CC}|lab16.Generic\\lab16.Generic.csproj|solutionrelative:lab16.generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DC94A4-9AEC-4B1F-9C53-3A770E21B5CC}|lab16.Generic\\lab16.Generic.csproj|C:\\Users\\User\\source\\repos\\lab16.Generic\\lab16.generic\\baseclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DC94A4-9AEC-4B1F-9C53-3A770E21B5CC}|lab16.Generic\\lab16.Generic.csproj|solutionrelative:lab16.generic\\baseclientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DC94A4-9AEC-4B1F-9C53-3A770E21B5CC}|lab16.Generic\\lab16.Generic.csproj|C:\\Users\\User\\source\\repos\\lab16.Generic\\lab16.generic\\clientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DC94A4-9AEC-4B1F-9C53-3A770E21B5CC}|lab16.Generic\\lab16.Generic.csproj|solutionrelative:lab16.generic\\clientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05DC94A4-9AEC-4B1F-9C53-3A770E21B5CC}|lab16.Generic\\lab16.Generic.csproj|C:\\Users\\User\\source\\repos\\lab16.Generic\\lab16.generic\\iclientdatamanagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05DC94A4-9AEC-4B1F-9C53-3A770E21B5CC}|lab16.Generic\\lab16.Generic.csproj|solutionrelative:lab16.generic\\iclientdatamanagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseClientData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab16.Generic\\lab16.Generic\\BaseClientData.cs",
+              "RelativeDocumentMoniker": "lab16.Generic\\BaseClientData.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab16.Generic\\lab16.Generic\\BaseClientData.cs",
+              "RelativeToolTip": "lab16.Generic\\BaseClientData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:11:28.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab16.Generic\\lab16.Generic\\ClientData.cs",
+              "RelativeDocumentMoniker": "lab16.Generic\\ClientData.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab16.Generic\\lab16.Generic\\ClientData.cs",
+              "RelativeToolTip": "lab16.Generic\\ClientData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:20:01.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IClientDataManagable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab16.Generic\\lab16.Generic\\IClientDataManagable.cs",
+              "RelativeDocumentMoniker": "lab16.Generic\\IClientDataManagable.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab16.Generic\\lab16.Generic\\IClientDataManagable.cs",
+              "RelativeToolTip": "lab16.Generic\\IClientDataManagable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:14:01.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\lab16.Generic\\lab16.Generic\\Program.cs",
+              "RelativeDocumentMoniker": "lab16.Generic\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\lab16.Generic\\lab16.Generic\\Program.cs",
+              "RelativeToolTip": "lab16.Generic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T05:17:38.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

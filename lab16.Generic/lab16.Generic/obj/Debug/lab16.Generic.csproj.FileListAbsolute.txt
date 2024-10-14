@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab16.Generic\lab16.Generic\bin\Debug\lab16.Generic.exe.config
+C:\Users\User\source\repos\lab16.Generic\lab16.Generic\bin\Debug\lab16.Generic.exe
+C:\Users\User\source\repos\lab16.Generic\lab16.Generic\bin\Debug\lab16.Generic.pdb
+C:\Users\User\source\repos\lab16.Generic\lab16.Generic\obj\Debug\lab16.Generic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab16.Generic\lab16.Generic\obj\Debug\lab16.Generic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab16.Generic\lab16.Generic\obj\Debug\lab16.Generic.exe
+C:\Users\User\source\repos\lab16.Generic\lab16.Generic\obj\Debug\lab16.Generic.pdb
