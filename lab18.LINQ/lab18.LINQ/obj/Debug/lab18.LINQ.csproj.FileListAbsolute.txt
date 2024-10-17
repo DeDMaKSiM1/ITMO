@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab18.LINQ\lab18.LINQ\bin\Debug\lab18.LINQ.exe.config
+C:\Users\User\source\repos\lab18.LINQ\lab18.LINQ\bin\Debug\lab18.LINQ.exe
+C:\Users\User\source\repos\lab18.LINQ\lab18.LINQ\bin\Debug\lab18.LINQ.pdb
+C:\Users\User\source\repos\lab18.LINQ\lab18.LINQ\obj\Debug\lab18.LINQ.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab18.LINQ\lab18.LINQ\obj\Debug\lab18.LINQ.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab18.LINQ\lab18.LINQ\obj\Debug\lab18.LINQ.exe
+C:\Users\User\source\repos\lab18.LINQ\lab18.LINQ\obj\Debug\lab18.LINQ.pdb
