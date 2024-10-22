@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab20.Thread\lab20.Thread\bin\Debug\lab20.Thread.exe.config
+C:\Users\User\source\repos\lab20.Thread\lab20.Thread\bin\Debug\lab20.Thread.exe
+C:\Users\User\source\repos\lab20.Thread\lab20.Thread\bin\Debug\lab20.Thread.pdb
+C:\Users\User\source\repos\lab20.Thread\lab20.Thread\obj\Debug\lab20.Thread.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab20.Thread\lab20.Thread\obj\Debug\lab20.Thread.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab20.Thread\lab20.Thread\obj\Debug\lab20.Thread.exe
+C:\Users\User\source\repos\lab20.Thread\lab20.Thread\obj\Debug\lab20.Thread.pdb
