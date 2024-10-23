@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab21.TPL\lab21.TPL\bin\Debug\lab21.TPL.exe.config
+C:\Users\User\source\repos\lab21.TPL\lab21.TPL\bin\Debug\lab21.TPL.exe
+C:\Users\User\source\repos\lab21.TPL\lab21.TPL\bin\Debug\lab21.TPL.pdb
+C:\Users\User\source\repos\lab21.TPL\lab21.TPL\obj\Debug\lab21.TPL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab21.TPL\lab21.TPL\obj\Debug\lab21.TPL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab21.TPL\lab21.TPL\obj\Debug\lab21.TPL.exe
+C:\Users\User\source\repos\lab21.TPL\lab21.TPL\obj\Debug\lab21.TPL.pdb
