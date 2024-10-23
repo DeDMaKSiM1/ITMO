@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\lab22.Async\lab22.Async\bin\Debug\lab22.Async.exe.config
+C:\Users\User\source\repos\lab22.Async\lab22.Async\bin\Debug\lab22.Async.exe
+C:\Users\User\source\repos\lab22.Async\lab22.Async\bin\Debug\lab22.Async.pdb
+C:\Users\User\source\repos\lab22.Async\lab22.Async\obj\Debug\lab22.Async.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\lab22.Async\lab22.Async\obj\Debug\lab22.Async.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\lab22.Async\lab22.Async\obj\Debug\lab22.Async.exe
+C:\Users\User\source\repos\lab22.Async\lab22.Async\obj\Debug\lab22.Async.pdb
